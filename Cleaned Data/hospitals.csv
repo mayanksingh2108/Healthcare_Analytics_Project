@@ -1,0 +1,11 @@
+hospitalid,hospitalname,city,region
+HOSP-001,Apex Health Centre,Delhi,North
+HOSP-002,Sunrise Medical City,Mumbai,West
+HOSP-003,Max Wellness Institute,Bangalore,South
+HOSP-004,Narayana Medical Center,Kolkata,East
+HOSP-005,AIIMS Regional,Bhopal,Central
+HOSP-006,Medanta Super Specialty,Gurgaon,North
+HOSP-007,Manipal Hospital,Chennai,South
+HOSP-008,KIMS General,Hyderabad,South
+HOSP-009,Ruby Hall Clinic,Pune,West
+HOSP-010,GNRC Hospitals,Guwahati,Northeast
