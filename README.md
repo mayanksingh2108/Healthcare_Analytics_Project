@@ -69,25 +69,25 @@ A 4-page interactive dashboard was designed to provide tailored insights for dif
 #### 1. Executive Overview Dashboard
 Provides a high-level pulse on network volume, total gross revenue, and regional performance.
 <p align="center">
-  <img src="images/Screenshot%202026-07-24%20124457.png" alt="Executive Dashboard" width="90%">
+  <img src="images/images/Dashboard_Page_1.png" alt="Executive Dashboard" width="90%">
 </p>
 
 #### 2. Patient Information Dashboard
 Analyzes patient demographics, blood type inventory needs, and the distribution of diagnoses across age groups.
 <p align="center">
-  <img src="images/Screenshot%202026-07-24%20124544.png" alt="Patient Dashboard" width="90%">
+  <img src="images/images/Dashboard_Page_2.png" alt="Patient Dashboard" width="90%">
 </p>
 
 #### 3. Clinical Performance Dashboard
 Tracks operational efficiency, highlighting 30-day readmission rates, specialty admission volumes, and the impact of doctor experience on patient length of stay.
 <p align="center">
-  <img src="images/Screenshot%202026-07-24%20124602.png" alt="Clinical Dashboard" width="90%">
+  <img src="images/Dashboard_Page_3.png" alt="Clinical Dashboard" width="90%">
 </p>
 
 #### 4. Billing Operations Dashboard
 A granular financial deep-dive identifying outstanding debt, insurance coverage gaps, and the revenue cycle funnel.
 <p align="center">
-  <img src="images/Screenshot%202026-07-24%20124626.png" alt="Billing Dashboard" width="90%">
+  <img src="images/images/Dashboard_Page_4.png" alt="Billing Dashboard" width="90%">
 </p>
 
 ---
